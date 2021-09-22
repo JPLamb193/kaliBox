@@ -4,6 +4,7 @@
 ARGON ONE RPI CASE FAN SCRIPTS WILL BRICK KALI. Requires further research.
 
 ParrotOS does not seem to have a version on their website that supports RPI (more specifically RPI4). Will need to research.
+  -ParrotOS seems to have discontinued ARM support back in Parrot version 3
 
 Specifications:
 
